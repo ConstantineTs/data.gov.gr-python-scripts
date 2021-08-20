@@ -23,7 +23,7 @@ en_date = str(input("Give the end date:"))
 name = input("Give the name of the output csv file:")
 
 #input path
-path = r'C:\Users\a'
+path = r'C:\Users\<user_name>'
 path = input("Give the path for the output csv file if you leave it blank it will go to: C:\\Users")
 
 web_location = input("Give the url:")
