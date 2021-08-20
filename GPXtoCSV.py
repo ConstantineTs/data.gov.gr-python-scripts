@@ -11,7 +11,7 @@ import os
 input/output paths and file naming
 """"
 
-path = r'C:\Users\a'
+path = r'C:\Users\<user_name>'
 path = input("Give the path for the output csv file if you leave it blank it will go to: C:\\Users")
 name = input("Give the name of the output csv file:")
 file_loc = input("Give the location of the input gpx file:")
